@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/dao/BookDao.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/dao/PublisherDao.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/model/Book.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/pstate/MainMenu.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/pstate/PublisherMenu.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/dao/PublisherDaoImpl.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/tools/InputPublisherValidation.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/dao/BookDaoImpl.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/pstate/BookMenu.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/main/Main.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/tools/InputBookValidation.java</file>
+            <file>file:/C:/Users/ManhComputer/Documents/NetBeansProjects/BookStoreManagement/src/model/Publisher.java</file>
+        </group>
+    </open-files>
+</project-private>
