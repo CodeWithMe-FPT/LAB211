@@ -13,7 +13,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
-import tools.InputPublisherValidation;
+import validator.InputPublisherValidation;
 
 public class PublisherDaoImpl implements PublisherDao {
     static final String PUBLISHER_FILE = "publisher.csv";

@@ -19,8 +19,8 @@ import java.util.Scanner;
 import javax.imageio.IIOException;
 import model.Book;
 import model.Publisher;
-import tools.InputBookValidation;
-import tools.InputPublisherValidation;
+import validator.InputBookValidation;
+import validator.InputPublisherValidation;
 
 /**
  *

@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 import model.Book;
-import tools.InputPublisherValidation;
+import validator.InputPublisherValidation;
 
 public class PublisherMenu implements Menu {
     @Override

@@ -7,8 +7,8 @@ import model.Publisher;
 
 import java.util.List;
 import java.util.Scanner;
-import tools.InputBookValidation;
-import tools.InputPublisherValidation;
+import validator.InputBookValidation;
+import validator.InputPublisherValidation;
 
 public class BookMenu implements Menu {
     @Override
